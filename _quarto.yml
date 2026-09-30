@@ -1,0 +1,40 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "E. Matthew Husband"
+  description: "E. Matthew Husband — Professor of Psycholinguistics at the University of Oxford. Research on meaning, cognitive representation, language comprehension, inference, prediction, memory and knowledge."
+  site-url: https://emhusband.github.io/
+  navbar:
+    title: "E. Matthew Husband"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research/index.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: group.qmd
+        text: Group
+      - href: files/matthew-husband-cv.pdf
+        text: CV
+  page-footer:
+    left: "E. Matthew Husband"
+    right:
+      - text: "University of Oxford"
+      - text: "St Hugh's College"
+
+format:
+  html:
+    theme: [default, css/site.scss]
+    title-block-style: none
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true
+    html-math-method: katex
+
+resources:
+  - images/**
+  - files/**
+  - js/**

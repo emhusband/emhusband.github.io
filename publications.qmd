@@ -1,0 +1,12 @@
+---
+title: "Publications"
+---
+
+<div class="page-title">
+Publications and other research outputs, filterable by research topic. A complete list can be found on my [CV](files/matthew-husband-cv.pdf).
+</div>
+
+{{< include generated/publications-list.html >}}
+
+<script src="js/publications.js"></script>
+<script src="js/page-header-network.js"></script>

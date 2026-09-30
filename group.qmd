@@ -1,0 +1,86 @@
+---
+title: "Research Group"
+---
+
+<section class="section people-section">
+
+## Current researchers
+
+<div class="people-list">
+<div class="person-entry">
+<div class="person-name"><a href="https://www.ling-phil.ox.ac.uk/people/graduate-students">Shahd Dibas</a></div>
+<div class="person-status">DPhil researcher</div>
+<div class="person-project">Structure and the domain of non-compositional meaning</div>
+</div>
+<div class="person-entry">
+<div class="person-name"><a href="https://www.ling-phil.ox.ac.uk/people/yang-fan">Yang Fan</a></div>
+<div class="person-status">DPhil researcher</div>
+<div class="person-project">Garden-path reanalysis and memory retrieval</div>
+</div>
+<div class="person-entry">
+<div class="person-name"><a href="https://www.ling-phil.ox.ac.uk/people/yutong-zhang">Yutong Zhang</a></div>
+<div class="person-status">DPhil researcher</div>
+<div class="person-project">Relating offline probability judgments and online word prediction</div>
+</div>
+</div>
+
+## Former researchers
+
+<div class="people-list people-list-compact">
+<div class="person-entry"><div class="person-name"><a href="https://yao-ry.github.io/mypage/">Runyi Yao</a></div><div class="person-status">DPhil, 2026</div><div class="person-project">Causal inferences and expectations in discourse processing<div class="person-links"><a href="https://ora.ox.ac.uk/objects/uuid:c6e3d414-fdac-4bbe-a385-6b53ec496adb">Thesis (ORA)</a></div></div></div>
+<div class="person-entry"><div class="person-name">Zirui Huang</div><div class="person-status">DPhil, 2025</div><div class="person-project">Incremental structure prediction during language comprehension<div class="person-links"><a href="https://ora.ox.ac.uk/objects/uuid:677e1eaa-2c23-42c4-9832-07ef95b55a52">Thesis (ORA)</a></div></div></div>
+<div class="person-entry"><div class="person-name">Luis Hildebrandt</div><div class="person-status">DPhil, 2024</div><div class="person-project">Quantifier restriction and illusory NPI licensing<div class="person-links"><a href="https://ora.ox.ac.uk/objects/uuid:6b0a267a-8ce4-49a2-8f92-05a15b5a3d91">Thesis (ORA)</a></div></div></div>
+<div class="person-entry"><div class="person-name"><a href="https://uk.linkedin.com/in/arkadiusz-kwapiszewski">Arkady Kwapiszewski</a></div><div class="person-status">DPhil, 2022</div><div class="person-project">Aspect and event structure in Polish verbs<div class="person-links"><a href="https://ora.ox.ac.uk/objects/uuid:82add231-183e-4ae7-824f-96ae4023749d">Thesis (ORA)</a></div></div></div>
+<div class="person-entry"><div class="person-name"><a href="https://kimfuellenbach.wordpress.com/">Kim Fuellenbach</a></div><div class="person-status">DPhil, 2020</div><div class="person-project">Morphosyntax, genericity, and the conceptual system<div class="person-links"><a href="https://ora.ox.ac.uk/objects/uuid:3c43af90-3676-4a26-bf57-f279d92b1833">Thesis (ORA)</a></div></div></div>
+<div class="person-entry"><div class="person-name"><a href="https://awerkmann.wixsite.com/ana-werkmann-horvat">Anja Werkmann Horvat</a></div><div class="person-status">DPhil, 2017</div><div class="person-project">Layers of modality<div class="person-links"><a href="https://ora.ox.ac.uk/objects/uuid:b7633467-cc32-44d8-9692-a147b1493e63">Thesis (ORA)</a></div></div></div>
+<div class="person-entry"><div class="person-name"><a href="https://aineito.github.io/">Aine Ito</a></div><div class="person-status">Postdoctoral researcher, 2016–17</div><div class="person-project">Enrichment and priming</div></div>
+<div class="person-entry"><div class="person-name"><a href="https://ceas.ku.edu/people/stephen-politzer-ahles">Stephen Politzer-Ahles</a></div><div class="person-status">Postdoctoral researcher, 2015–16</div><div class="person-project">Enrichment and scalar implicature</div></div>
+</div>
+
+## Collaborative projects
+
+<div class="collaborative-project">
+<div class="project-name">[Generics Across Languages](https://www.dimitra-lazaridou-chatzigoga.com/projects/generics-across-languages/)</div>
+
+The Generics Across Languages (GAL) collaboration investigates how generic meanings are expressed across a wide range of languages. With [Dimitra Lazaridou-Chatzigoga](https://www.dimitra-lazaridou-chatzigoga.com/), [Suzi Lima](https://suzilima.blog/), and [Linnaea Stockall](https://www.qmul.ac.uk/arts/people/academic-and-research-staff/linguistics/linnaea.html), and a network of international collaborators, the project uses a shared Generics Toolkit to build a systematic cross-linguistic picture of the morphosyntax and semantics of generic expressions.
+
+The collaboration is ongoing: the toolkit has been used to collect data across a growing set of languages, and current work is extending both the empirical database and the theoretical questions it can address.
+
+<div class="project-links"><a class="section-action" href="https://osf.io/3qw5s/">Project &amp; toolkit <span aria-hidden="true">→</span></a> <a class="section-action" href="https://cordis.europa.eu/project/id/101278557">Current programme <span aria-hidden="true">→</span></a></div>
+</div>
+
+</section>
+
+<section class="section prospective-section" id="prospective-researchers">
+# Prospective researchers
+
+I welcome enquiries from prospective researchers interested in questions about meaning and cognition. I am particularly interested in projects connecting questions about syntactic and semantic representation with questions about conceptual and world knowledge and the composition, inference, and memory processes involved in production and comprehension.
+
+Projects need not fall neatly within one of my current research programmes. What matters more is a clear theoretical question that engages with current linguistic and psycholinguistic theory and a good fit with my expertise.
+
+If you are considering working with me, the [Research](research/index.html) page is the best indication of the kinds of questions and approaches that interest me.
+
+## Graduate research
+
+I supervise research projects for students on Oxford's DPhil, MPhil, and MSt (Research Preparation) in Linguistics, Philology, and Phonetics programmes. Prospective students are welcome to contact me before applying. You do not need to send a fully developed research proposal in an initial email, and indeed, such an approach can be counterproductive. A short description of the problem you are interested in, why you think it connects with my research, and your relevant background is much more useful.
+
+Formal admissions requirements, deadlines, and funding arrangements are handled by the University and Faculty. Please consult the [Linguistics, Philology, and Phonetics graduate admissions page](https://www.ling-phil.ox.ac.uk/admissions/graduate-admissions) for current information.
+
+## Postdoctoral researchers
+
+I am happy to discuss postdoctoral projects that fit closely with my research programme, including applications for external fellowships hosted at Oxford. If you are considering developing a fellowship proposal with me, please get in touch well in advance of the deadline. Competitive proposals benefit from time to develop the research questions and intellectual fit together.
+
+Funded postdoctoral positions attached to particular projects, when available, will be formally advertised.
+
+## Undergraduate research
+
+I also supervise undergraduate research projects in language and cognition. Within the linguistics side of the MLL and PPL degrees, [Paper C](https://canvas.ox.ac.uk/courses/297831) provides an opportunity to pursue an independent research project, and I supervise projects where the question and my expertise are a good fit. I also supervise Extended Projects for fourth-year Experimental Psychology and PPL students, with project allocation organised annually through Experimental Psychology.
+
+If you are an Oxford undergraduate considering an independent project, the most useful starting point is a research question rather than a fully worked-out experiment. I am happy to discuss how a promising question might be developed into a feasible project.
+
+## Getting in touch
+
+If you are contacting me about prospective research, a brief email is best. Tell me the question or problem that interests you, how you see it connecting with my research and expertise, and a little about your relevant background. A CV is useful; a long research proposal is not necessary for an initial enquiry.
+</section>
+
+<script src="js/page-header-network.js"></script>
