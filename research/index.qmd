@@ -7,7 +7,7 @@ title: "Research"
 
 <p>My research is motivated by a striking asymmetry in linguistic meaning. Some dimensions of meaning are grammatically regimented. Language encodes relatively rigid distinctions in funcational elements related to individuation, quantity, event structure, thematic relations, temporality, and modality. Other aspects of interpretation are remarkably flexible, emerging through context, inference, and our knowledge of the world. Why does grammar privilege particular dimensions of meaning, and what can this distinction tell us about the representations available to the mind?</p>
 
-<p>I approach this problem by studying grammatically relevant aspects of sentence interpretation from both representational and processing perspectives. Linguistic theories specify the representations and opeartions that grammatical distinctions require, while psycholinguistic theories specify processes that retrieve, construct and draw inferences over those representations. Their interaction provides a way to ask not only what linguistic meanings look like, but why the cognitive system represents and uses meaning in the ways it does.</p>
+<p>I approach these questions by studying grammatically relevant aspects of sentence interpretation from both representational and processing perspectives. Linguistic theories specify the representations and opeartions that grammatical distinctions require, while psycholinguistic theories specify the processes that retrieve, construct and draw inferences over those representations. Their interaction provides a way to ask not only what linguistic meanings look like, but why the cognitive system represents and uses meaning in the ways it does.</p>
 :::
 
 <section class="section research-programmes" id="programmes">
@@ -22,13 +22,13 @@ title: "Research"
 
 <section class="research-programme" id="grammatical-structure">
 <h2>Grammatical structure and the representation of meaning</h2>
-<p class="research-question">Which aspects of meaning are grammatically structured, and what does that structure tell us about mental representation?</p>
+<p class="research-question">Which aspects of meaning are grammatically structured, and what does that structure tell us about our mental representations?</p>
 
 <div class="programme-intro">
 <div class="programme-copy">
-<p>Some dimensions of meaning are remarkably sensitive to grammatical structure. Distinctions involving events and states, thematic relations, individuation, kinds, quantity, and modality are not simply matters of what words and phrases mean: grammatical structure shapes how these meanings are represented and composed. Much of my theoretical work asks why these particular dimensions of meaning are grammatically privileged, and what their grammatical organization can tell us about the representations available to the mind.</p>
+<p>Some dimensions of meaning are remarkably sensitive to grammatical structure. Distinctions involving individuals and kinds, quantity, events and states, thematic relations, time, and modality are not simply matters of what words and phrases mean. Grammatical structure shapes how these meanings are represented and composed. Much of my formal work investigates the particular dimensions of meaning that are grammatically privileged, and asks what their grammatical organization can tell us about the representations that are available to the mind.</p>
 
-<p>A theory of linguistic representation is also a commitment about what the comprehension system has to construct and manipulate. Representational distinctions motivated by linguistic theory should have consequences for the processes that construct and use interpretations; evidence about those processes can, in turn, constrain the representations that linguistic theories posit. This interaction between representation and process is central to my approach to grammatically relevant aspects of sentence interpretation.</p>
+<p>A theory of linguistic representation is also a commitment about what the processing system has to construct and manipulate. Representational distinctions motivated by linguistic theory should have consequences for the processes that construct and use interpretations, and evidence about those processes can, in turn, constrain the representations that linguistic theories posit. This interaction between representation and process is central to my approach to grammatically relevant aspects of sentence interpretation.</p>
 </div>
 <div class="programme-visual" data-visual="grammatical-structure" aria-hidden="true"></div>
 </div>
