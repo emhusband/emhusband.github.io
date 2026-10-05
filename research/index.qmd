@@ -5,9 +5,9 @@ title: "Research"
 ::: {.page-title}
 ## How does the mind represent and make use of meaning?
 
-<p>My research is motivated by a striking asymmetry in linguistic meaning. Some dimensions of meaning are grammatically regimented: language makes relatively rigid distinctions in areas such as event structure, individuation, thematic relations, quantity, and modality. Other aspects of interpretation are remarkably flexible, emerging through context, inference, and our knowledge of the world. Why does grammar privilege particular dimensions of meaning, and what can those distinctions tell us about the representations available to the mind?</p>
+<p>My research is motivated by a striking asymmetry in linguistic meaning. Some dimensions of meaning are grammatically regimented. Language encodes relatively rigid distinctions in funcational elements related to individuation, quantity, event structure, thematic relations, temporality, and modality. Other aspects of interpretation are remarkably flexible, emerging through context, inference, and our knowledge of the world. Why does grammar privilege particular dimensions of meaning, and what can this distinction tell us about the representations available to the mind?</p>
 
-<p>I approach this problem by studying grammatically relevant aspects of sentence interpretation from both representational and processing perspectives. Linguistic theories specify the representations that grammatical distinctions require; psycholinguistic theories specify processes that construct and operate over those representations. Their interaction provides a way to ask not only what linguistic meanings look like, but why the cognitive system represents and uses meaning in the ways it does.</p>
+<p>I approach this problem by studying grammatically relevant aspects of sentence interpretation from both representational and processing perspectives. Linguistic theories specify the representations and opeartions that grammatical distinctions require, while psycholinguistic theories specify processes that retrieve, construct and draw inferences over those representations. Their interaction provides a way to ask not only what linguistic meanings look like, but why the cognitive system represents and uses meaning in the ways it does.</p>
 :::
 
 <section class="section research-programmes" id="programmes">
