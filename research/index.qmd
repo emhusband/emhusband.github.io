@@ -5,7 +5,7 @@ title: "Research"
 ::: {.page-title}
 ## How does the mind represent and make use of meaning?
 
-<p>My research is motivated by a striking asymmetry in linguistic meaning. Some dimensions of meaning are grammatically regimented. Language encodes relatively rigid distinctions in funcational elements related to individuation, quantity, event structure, thematic relations, temporality, and modality. Other aspects of interpretation are remarkably flexible, emerging through context, inference, and our knowledge of the world. Why does grammar privilege particular dimensions of meaning, and what can this distinction tell us about the representations available to the mind?</p>
+<p>My research is motivated by a striking asymmetry in linguistic meaning. Some dimensions of meaning are grammatically regimented. The functional elements of language encode relatively rigid distinctions related to individuation, quantity, event structure, temporality, and modality, just to name a few. Other aspects of interpretation are remarkably flexible, emerging through context, inference, and our knowledge of the world. Why does grammar privilege particular dimensions of meaning, and what can this distinction tell us about the representations available to the mind?</p>
 
 <p>I approach these questions by studying grammatically relevant aspects of sentence interpretation from both representational and processing perspectives. Linguistic theories specify the representations and opeartions that grammatical distinctions require, while psycholinguistic theories specify the processes that retrieve, construct and draw inferences over those representations. Their interaction provides a way to ask not only what linguistic meanings look like, but why the cognitive system represents and uses meaning in the ways it does.</p>
 :::
@@ -58,26 +58,26 @@ title: "Research"
     <div class="work-citation"><span class="work-citation-main">Chen, S. Y. &amp; Husband, E. M. (2019). <span class="work-title">Event (de)composition.</span></span> <span class="work-venue">In <em>The Oxford Handbook of Experimental Semantics and Pragmatics</em>, 62–82. Oxford University Press.</span></div>
     <div class="work-links"><a href="https://doi.org/10.1093/oxfordhb/9780198791768.013.10">DOI</a> <a href="https://ora.ox.ac.uk/objects/uuid:199df453-be2c-48b7-bcf9-52a93d960365">Open access</a></div>
   </article>
-  <article class="research-work" data-tags="representation construction">
-    <div class="work-citation"><span class="work-citation-main">Husband, E. M. (2012). <span class="work-title"><em>On the Compositional Nature of States</em>.</span></span> <span class="work-venue">Linguistik Aktuell/Linguistics Today 188. John Benjamins.</span></div>
-    <div class="work-links"><a href="https://doi.org/10.1075/la.188">DOI</a></div>
-  </article>
   <article class="research-work" data-tags="representation">
     <div class="work-citation"><span class="work-citation-main">Husband, E. M. (2015). <span class="work-title">The inventory of functional categories and conditions on the possibility of experience.</span></span> <span class="work-venue">Handout.</span></div>
     <div class="work-links"><a href="https://drive.google.com/file/d/1SbyhohbQSpyxnzWvSEGn49QkHWmKhY-X/view">Handout</a></div>
   </article>
+  <article class="research-work" data-tags="representation construction">
+    <div class="work-citation"><span class="work-citation-main">Husband, E. M. (2012). <span class="work-title"><em>On the Compositional Nature of States</em>.</span></span> <span class="work-venue">Linguistik Aktuell/Linguistics Today 188. John Benjamins.</span></div>
+    <div class="work-links"><a href="https://doi.org/10.1075/la.188">DOI</a></div>
+  </article>  
 </div>
 </section>
 
 <section class="research-programme" id="expectation-inference">
 <h2>Expectation and inference</h2>
-<p class="research-question">How does our knowledge guide our expectations about language before the relevant input arrives?</p>
+<p class="research-question">How does our cognitive system access knowledge to guide expectations about language before the relevant input arrives?</p>
 
 <div class="programme-intro">
 <div class="programme-copy">
-<p>Language comprehension unfolds over time, but comprehenders do not simply wait for each word before interpreting it. Our knowledge of language, context, and the world allows us to form expectations about how upcoming language is likely to proceed. These expectations provide a window onto the knowledge that supports comprehension: what kinds of information can guide prediction, how uncertainty is represented, and how expectations at different levels of linguistic representation relate to one another.</p>
+<p>Language comprehension unfolds over time, but comprehenders do not simply wait for each word before acting. Our knowledge of language, context, and the world allows us to form expectations about how upcoming language is likely to proceed. These expectations provide a window onto the knowledge that supports comprehension: what kinds of information can guide prediction, how uncertainty is represented, and how expectations at different levels of representation relate to one another.</p>
 
-<p>My work approaches these questions by treating prediction as a problem of probabilistic inference while asking what cognitively plausible algorithms could actually implement those inferences. Rather than simply demonstrating whether comprehenders predict, I ask how probabilistic knowledge is represented and how cognitive processes make use of that knowledge during real-time comprehension. This provides a way to investigate how stored knowledge, contextual information, and online inference jointly shape the interpretation of language as it unfolds.</p>
+<p>My work approaches these questions by treating prediction as a problem of probabilistic inference while asking what cognitively plausible algorithms could actually implement those inferences. Rather than simply demonstrating whether comprehenders predict, my work asks how probabilistic knowledge is represented and how cognitive processes access and make use of that knowledge during real-time comprehension. This provides a way to investigate how stored knowledge, contextual information, and online inference jointly shape the interpretation of language as it unfolds.</p>
 </div>
 <div class="programme-visual" data-visual="expectation-inference" aria-hidden="true"></div>
 </div>
@@ -87,6 +87,10 @@ title: "Research"
   <article class="research-work" data-tags="inference construction">
     <div class="work-citation"><span class="work-citation-main">Zhang, Y. &amp; Husband, E. M. (2026). <span class="work-title">Relating word prediction and probability judgment: Online and offline probabilistic processes are partially shared.</span></span> <span class="work-venue">Proceedings of the Cognitive Science Society, 48, 2798–2805.</span></div>
     <div class="work-links"><a href="https://escholarship.org/uc/item/113553v6">Open access</a></div>
+  </article>
+  <article class="research-work" data-tags="inference">
+    <div class="work-citation"><span class="work-citation-main">Zhang, Y. &amp; Husband, E. M. (2024). <span class="work-title">Unpacking additivity biases reveal the class of sampling algorithm for word predictability.</span></span> <span class="work-venue">Talk given at the 37th annual conference on Human Sentence Processing, Ann Arbor, MI.</span></div>
+    <div class="work-links"><a href="https://hsp2024.github.io/abstracts/submission_37.pdf">Abstract</a></div>
   </article>
   <article class="research-work" data-tags="inference construction">
     <div class="work-citation"><span class="work-citation-main">Husband, E. M. (2022). <span class="work-title">Prediction in the maze: Evidence for probabilistic pre-activation from the English <em>a/an</em> contrast.</span></span> <span class="work-venue">Glossa Psycholinguistics, 1(1).</span></div>
@@ -101,17 +105,13 @@ title: "Research"
     <div class="work-links"><a href="https://doi.org/10.1080/23273798.2019.1651881">DOI</a></div>
   </article>
   <article class="research-work" data-tags="inference construction">
-    <div class="work-citation"><span class="work-citation-main">Ito, A. &amp; Husband, E. M. (2017). <span class="work-title">How robust are effects of semantic and phonological prediction during language comprehension? A visual world eye-tracking study.</span></span> <span class="work-venue">Proceedings of the Mental Architecture for Processing and Learning of Language.</span></div>
-    <div class="work-links"><a href="https://aineito.github.io/presentations.html">Conference paper</a></div>
-  </article>
-  <article class="research-work" data-tags="inference construction">
     <div class="work-citation"><span class="work-citation-main">Nieuwland, M. S. et al. (2018). <span class="work-title">Large-scale replication study reveals a limit on probabilistic prediction in language comprehension.</span></span> <span class="work-venue">Nature Human Behaviour.</span></div>
     <div class="work-links"><a href="https://doi.org/10.7554/eLife.33468">DOI</a></div>
-  </article>
-  <article class="research-work" data-tags="inference">
-    <div class="work-citation"><span class="work-citation-main">Zhang, Y. &amp; Husband, E. M. (2024). <span class="work-title">Unpacking additivity biases reveal the class of sampling algorithm for word predictability.</span></span> <span class="work-venue">Talk given at the 37th annual conference on Human Sentence Processing, Ann Arbor, MI.</span></div>
-    <div class="work-links"><a href="https://hsp2024.github.io/abstracts/submission_37.pdf">Abstract</a></div>
-  </article>
+  </article> 
+  <article class="research-work" data-tags="inference construction">
+    <div class="work-citation"><span class="work-citation-main">Ito, A. &amp; Husband, E. M. (2017). <span class="work-title">How robust are effects of semantic and phonological prediction during language comprehension? A visual world eye-tracking study.</span></span> <span class="work-venue">Proceedings of the Mental Architecture for Processing and Learning of Language.</span></div>
+    <div class="work-links"><a href="https://aineito.github.io/presentations.html">Conference paper</a></div>
+  </article>   
 </div>
 </section>
 
@@ -121,7 +121,7 @@ title: "Research"
 
 <div class="programme-intro">
 <div class="programme-copy">
-<p>Understanding an utterance routinely involves more than composing the meanings explicitly provided by its words and grammatical structure. Speakers make meanings and their alternatives available, and comprehenders consequently draw inferences, establish relations of coherence, and enrich interpretations in response to context. The question is how these less rigidly encoded aspects of meaning are represented and constrained: what licenses an implicit interpretation, what alternatives are considered, and how an evolving context shapes the relations comprehenders establish among meanings.</p>
+<p>Understanding utterances routinely involves more than composing the meanings explicitly provided by words and grammatical structure. Speakers choose to make certain meanings and their alternatives available, and comprehenders consequently draw inferences and implications, establish relations of coherence, and enrich interpretations in response to context. The question is how these less rigidly encoded aspects of meaning are represented and constrained: what licenses an implicit interpretation, what alternatives are considered, and how an evolving context shapes the relations comprehenders establish among meanings.</p>
 
 <p>My work approaches these questions by investigating how comprehenders generate, maintain, and use information that is not straightforwardly given by the linguistic signal. Alternatives, implicatures, and coherence relations provide different cases in which interpretation depends on information beyond what is explicitly encoded. Studying them together offers a way to ask how flexible, context-sensitive inference interacts with the more structured representations supplied by language.</p>
 </div>
@@ -163,13 +163,13 @@ title: "Research"
 
 <section class="research-programme" id="meaning-memory">
 <h2>Meaning in memory</h2>
-<p class="research-question">What is the relationship between the processes that build an interpretation and the representational product they ultimately leave behind?</p>
+<p class="research-question">What is the relationship between the processes that build interpretations and the representational products they ultimately leave behind?</p>
 
 <div class="programme-intro">
 <div class="programme-copy">
-<p>The incremental nature of language comprehension means that linguistic interpretations are continuously constructed and revised as linguistic input unfolds. But the representations that form during comprehension and persist afterwards need not simply correspond to the final linguistic analysis. Earlier interpretations can linger after reanalysis, representations can be interfered with during encoding and retrieval, implicitly constructed information can become part of what is remembered, and prior knowledge can shape the representations that comprehenders construct. I am interested in what these effects reveal about the relationship between the moment-to-moment processes of comprehension and their representational products.</p>
+<p>The incremental nature of language comprehension means that linguistic interpretations are continuously constructed and revised as linguistic input unfolds. But the representations that form during comprehension and persist afterwards need not simply correspond to the final linguistic analysis. Provisional interpretations can linger after reanalysis, representations can be interfered with during encoding and retrieval, implicitly constructed information can become part of what is remembered, all while prior knowledge shapes the representations that comprehenders construct. I am interested in what these effects reveal about the relationship between the moment-to-moment processes of comprehension and their representational products.</p>
 
-<p>My work investigates both how information in memory is retrieved and used during comprehension, and how the processes involved in comprehension determine what is ultimately encoded and retained. This makes memory more than a resource that language processing draws upon: it provides a way to investigate how the history of processing shapes an interpretation, what aspects of that interpretation persist, and how the resulting representations become available for subsequent interpretation and inference.</p>
+<p>My work investigates both how information in memory is retrieved and used during comprehension, and how the processes involved in comprehension determine what is ultimately encoded and retained. From this viewpoint, memory is more than a resource that language processing draws upon. Instead, this research provides a way to investigate how the history of processing shapes an interpretation, what aspects of that interpretation persist, and how the resulting representations become available for subsequent interpretation and inference over both shorter and longer stretches of time.</p>
 </div>
 <div class="programme-visual" data-visual="meaning-memory" aria-hidden="true"></div>
 </div>
@@ -184,6 +184,10 @@ title: "Research"
     <div class="work-citation"><span class="work-citation-main">Palleschi, D., Husband, E. M. &amp; Knoeferle, P. (2026). <span class="work-title">Prior and new knowledge in language comprehension: Referent lifetime status versus biographical accomplishments.</span></span> <span class="work-venue">Acta Psychologica, 265, 106579.</span></div>
     <div class="work-links"><a href="https://doi.org/10.1016/j.actpsy.2026.106579">DOI</a></div>
   </article>
+  <article class="research-work" data-tags="memory construction representation">
+    <div class="work-citation"><span class="work-citation-main">Fan, Y. &amp; Husband, E. M. (2025). <span class="work-title">Illicit syntactic representations in garden-path reanalysis: More evidence from reflexives.</span></span> <span class="work-venue">Talk given at the 38th annual conference on Human Sentence Processing, College Park, MD.</span></div>
+    <div class="work-links"><a href="https://hsp2025.github.io/abstracts/90.pdf">Abstract</a></div>
+  </article>
   <article class="research-work" data-tags="memory representation">
     <div class="work-citation"><span class="work-citation-main">Chen, S. Y. &amp; Husband, E. M. (2018). <span class="work-title">Comprehending anaphoric presuppositions requires memory retrieval too.</span></span> <span class="work-venue">Proceedings of the Linguistic Society of America, 3, 44:1–11.</span></div>
     <div class="work-links"><a href="https://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/4288">Open access</a></div>
@@ -191,11 +195,7 @@ title: "Research"
   <article class="research-work" data-tags="memory construction inference">
     <div class="work-citation"><span class="work-citation-main">Patson, N. &amp; Husband, E. M. (2015). <span class="work-title">Misinterpretations in agreement and agreement attraction.</span></span> <span class="work-venue">Quarterly Journal of Experimental Psychology, 69(5), 950–971.</span></div>
     <div class="work-links"><a href="https://doi.org/10.1080/17470218.2014.992445">DOI</a></div>
-  </article>
-  <article class="research-work" data-tags="memory construction representation">
-    <div class="work-citation"><span class="work-citation-main">Fan, Y. &amp; Husband, E. M. (2025). <span class="work-title">Illicit syntactic representations in garden-path reanalysis: More evidence from reflexives.</span></span> <span class="work-venue">Talk given at the 38th annual conference on Human Sentence Processing, College Park, MD.</span></div>
-    <div class="work-links"><a href="https://hsp2025.github.io/abstracts/90.pdf">Abstract</a></div>
-  </article>
+  </article>  
 </div>
 </section>
 
